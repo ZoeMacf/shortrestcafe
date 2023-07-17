@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota&family=Saira+Condensed&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: saira-condensed, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a
+}
+
+/* headings and logo */
+
+h1,
+h2 {
+    font-family: bellota, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525
+}
+
+/* navigation links */
+
+#navbar {
+    float: right;
+}
