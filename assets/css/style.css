@@ -24,6 +24,29 @@ h2 {
 
 /* navigation links */
 
-#navbar {
+.welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 100%;
+}
+
+#nav-banner {
+    background-color: #9BC1BC;
+    height: 150px;
+    border: solid #5CA4A9 5px;
+    border-radius: 30px;
+}
+
+#menu li {
     float: right;
+    list-style-type: none;
+    margin-right: 250px;
+    display: block;
+}
+
+/* background */
+
+body,
+html {
+    height: 100%;
 }
