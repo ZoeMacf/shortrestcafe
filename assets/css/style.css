@@ -22,25 +22,45 @@ h2 {
     color: #252525
 }
 
-/* navigation links */
+/* hero image */
 
-.welcome {
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#hero-image {
+    height: 300px;
+    width: 100%;
+    background: url(../images/pexels-stephen-hardy-7061817.jpg) no-repeat center center;
+    background-blend-mode: overlay;
+    background-color: #444955;
+    background-size: 100%;
+}
+
+#hero-image h1 {
+    color: antiquewhite;
     text-align: center;
-    margin: 20px 0;
-    font-size: 100%;
+    font-size: 100px;
+    padding-top: 10px;
 }
 
-#nav-banner {
-    background-color: #9BC1BC;
-    height: 150px;
-    border: solid #5CA4A9 5px;
-    border-radius: 30px;
+#hero-image h2 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 10px;
 }
+
+/* navigation links */
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 250px;
+    margin-right: 50%;
     display: block;
 }
 
