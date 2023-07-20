@@ -12,20 +12,26 @@ body {
     color: #3a3a3a
 }
 
+body {
+    background-color: antiquewhite;
+}
+
 /* headings and logo */
 
 h1,
-h2 {
+h2,
+h3,
+h4 {
     font-family: bellota, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525
+    color: antiquewhite
 }
 
 /* hero image */
 
 #hero-outer {
-    height: 600px;
+    height: 300px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -39,6 +45,8 @@ h2 {
     background-blend-mode: overlay;
     background-color: #444955;
     background-size: 100%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 #hero-image h1 {
@@ -60,11 +68,9 @@ h2 {
 #menu-outer {
     width: 50%;
     height: 75px;
-    background-color: #444955;
     margin-bottom: 100px;
     margin-left: 25%;
-    margin-top: 10px;
-    border-radius: 25px;
+
 }
 
 #menu li {
@@ -73,12 +79,52 @@ h2 {
     margin-right: 155px;
     margin-top: 25px;
     color: antiquewhite;
-    border: solid 2px antiquewhite;
+}
+
+/* about info */
+
+#about-info {
+    width: 100%;
+    height: 400px;
 
 
 }
 
-body,
-html {
-    height: 100%;
+.about {
+    width: 50%;
+    border: 2px solid antiquewhite;
+    border-radius: 30px;
+    background-color: #444955;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+.about h2 {
+    margin-left: 25px;
+}
+
+.about p {
+    margin: 10px 20px;
+    padding: 5px;
+    color: antiquewhite;
+
+}
+
+/* footer */
+
+footer {
+    width: 100%;
+    height: 300px;
+    background-color: #444955;
+}
+
+#open-hours {
+    margin-left: 25px;
+}
+
+#social li {
+    color: antiquewhite;
+    list-style-type: none;
+    margin-left: 25%;
 }
