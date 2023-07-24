@@ -40,6 +40,9 @@ Font family Bellota was used for the Headings along with Saira Condensed for the
 
 ### Languages Used
 
+* The main structure of the website was created using HTML.
+* The styling of the website was created with CSS.
+
 ## Deployment & Local Development
 
 ### Deployment
