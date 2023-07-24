@@ -66,17 +66,17 @@ h4 {
 /* navigation links */
 
 #menu-outer {
-    width: 50%;
+    width: 60%;
     height: 75px;
     margin-bottom: 100px;
-    margin-left: 25%;
+    margin-left: 20%;
 
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 155px;
+    margin-right: 145px;
     margin-top: 25px;
     color: antiquewhite;
 }
