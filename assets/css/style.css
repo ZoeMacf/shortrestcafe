@@ -105,9 +105,20 @@ h4 {
     min-width: 0;
 }
 
-#event-dice {
+#home-outer {
     width: 50%;
+    height: 400px;
 }
+
+#home-image {
+    height: 300px;
+    width: 100%;
+    margin-left: 50%;
+    background: url(../images/karthik-balakrishnan-NrS53eUKgiE-unsplash.jpg) no-repeat center center;
+    background-size: 100%;
+    border-radius: 10px;
+}
+
 
 /* footer */
 
