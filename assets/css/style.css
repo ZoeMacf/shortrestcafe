@@ -81,34 +81,28 @@ h4 {
     color: antiquewhite;
 }
 
-/* about info */
+/* main page flex */
 
-#about-info {
-    width: 100%;
-    height: 400px;
-
-
+.flex-mainpage {
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
 }
 
-.about {
-    width: 50%;
-    border: 2px solid antiquewhite;
-    border-radius: 30px;
+.flex-item {
     background-color: #444955;
-    text-align: center;
-    margin-top: 20px;
-    margin-left: 25%;
-}
-
-.about h2 {
-    margin-left: 25px;
-}
-
-.about p {
-    margin: 10px 20px;
     padding: 5px;
+    margin: 50px 10px;
+    width: 50%;
+    height: 250px;
+    margin-top: 10px;
+    line-height: 30px;
     color: antiquewhite;
-
+    font-weight: bold;
+    text-align: center;
+    min-width: 0;
 }
 
 /* footer */
