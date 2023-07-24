@@ -14,11 +14,13 @@ The Short Rest Cafe is a place for board game enthusiasts to meet up, indulge in
 
 #### First Time Visitor Goals
 
-* I want to learn more about board games and other table top games.
-* I want to easily be able to navigate the website and access its features such as the menu
-* I want to know about upcoming game events
+- I want to learn more about board games and other table top games.
+- I want to easily be able to navigate the website and access its features such as the menu
+- I want to easily locate the cafe's opening times
 
 #### Returning Visitor Goals
+
+- I want to know when there are any upcoming events.
 
 #### Frequent Visitor Goals
 
@@ -40,8 +42,8 @@ Font family Bellota was used for the Headings along with Saira Condensed for the
 
 ### Languages Used
 
-* The main structure of the website was created using HTML.
-* The styling of the website was created with CSS.
+- The main structure of the website was created using HTML.
+- The styling of the website was created with CSS.
 
 ## Deployment & Local Development
 
