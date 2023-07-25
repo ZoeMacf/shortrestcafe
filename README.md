@@ -34,6 +34,23 @@ Font family Bellota was used for the Headings along with Saira Condensed for the
 
 ### Wireframes
 
+#### Home
+
+![Home image](./README-images/home.png)
+
+#### Menu
+
+![Home image](./README-images/menu.png)
+
+#### Gallery
+
+![Home image](./README-images/gallery.png)
+
+#### Reviews
+
+![Home image](./README-images/reviews.png)
+
+
 ### Features
 
 ### Accessibility
