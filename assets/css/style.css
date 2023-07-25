@@ -103,6 +103,13 @@ h4 {
     font-weight: bold;
     text-align: center;
     min-width: 0;
+    border-radius: 10px;
+}
+
+/* events information */
+
+#event-coming-soon {
+    margin-top: 30px;
 }
 
 #home-outer {
