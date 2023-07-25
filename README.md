@@ -28,7 +28,7 @@ The Short Rest Cafe is a place for board game enthusiasts to meet up, indulge in
 
 ### Typography
 
-Font family Bellota was used for the Headings along with Saira Condensed for the main text, Sans-Serif was used as a backup
+Font family Bellota was used for the website, Sans-Serif was used as a backup
 
 ### Imagery
 
@@ -56,6 +56,17 @@ Font family Bellota was used for the Headings along with Saira Condensed for the
 ### Accessibility
 
 ## Technologies Used
+
+- #### [Font Awesome](https://fontawesome.com/)
+  The icons used throughout this website were all sourced from Font Awesome.
+  
+- #### [Balsamic](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA14WdBhD8ARIsANao07g6CkndNmxQPlHP92mM3VQBwb6lbQIg5FPinhmNFxWsAnM7BpA_PukaAldMEALw_wcB)
+  Balsamiq was used to help create the intial design for the websites layout.
+  
+- #### [Google fonts](https://fonts.google.com/knowledge)
+  The font family 'Bellota' was sourced and imported through Google Fonts.
+  
+  
 
 ### Languages Used
 
