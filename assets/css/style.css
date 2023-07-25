@@ -131,13 +131,17 @@ h4 {
 
 footer {
     width: 100%;
-    height: 300px;
+    height: 350px;
     background-color: #444955;
 }
 
-#open-hours {
-    margin-left: 25px;
-    margin-bottom: 30px;
+#open-hours,
+h3,
+h4 {
+    text-align: center;
+    color: antiquewhite;
+    margin-bottom: 10px;
+    padding-top: 10px;
 }
 
 #social li {
