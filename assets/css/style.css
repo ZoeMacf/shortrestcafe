@@ -81,6 +81,17 @@ h4 {
     color: antiquewhite;
 }
 
+/* styling for navigation links */
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
 /* main page flex */
 
 .flex-mainpage {
