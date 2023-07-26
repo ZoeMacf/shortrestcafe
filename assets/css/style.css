@@ -88,14 +88,16 @@ a:link {
 }
 
 a:visited {
-    text-decoration: none;
     color: antiquewhite;
 }
 
 a:hover {
-    text-decoration: underline;
-    font-size: 120%;
+    background-color: #444955;
 
+}
+
+.active {
+    border-bottom: 2px solid antiquewhite;
 }
 
 /* main page flex */
