@@ -112,18 +112,17 @@ h4 {
     margin-top: 30px;
 }
 
-#home-outer {
-    width: 50%;
-    height: 400px;
-}
-
-#home-image {
-    height: 300px;
-    width: 100%;
-    margin-left: 50%;
-    background: url(../images/karthik-balakrishnan-NrS53eUKgiE-unsplash.jpg) no-repeat center center;
-    background-size: 100%;
+#about-us img {
+    max-width: 50%;
+    height: 100%;
+    object-fit: cover;
     border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+
+
 }
 
 
