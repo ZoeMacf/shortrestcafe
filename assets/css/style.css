@@ -92,6 +92,12 @@ a:visited {
     color: antiquewhite;
 }
 
+a:hover {
+    text-decoration: underline;
+    font-size: 120%;
+
+}
+
 /* main page flex */
 
 .flex-mainpage {
