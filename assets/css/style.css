@@ -102,7 +102,7 @@ a:hover {
 
 /* main page flex */
 
-.flex-mainpage {
+.flex-container {
     display: flex;
     flex-flow: nowrap;
     justify-content: space-around;
