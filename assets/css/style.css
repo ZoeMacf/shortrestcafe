@@ -201,7 +201,11 @@ a:hover {
     margin: 20px;
 }
 
-
+#review-divider {
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
 
 /* footer */
 
