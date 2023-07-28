@@ -17,7 +17,7 @@ body {
 }
 
 /* headings and logo */
-
+/* all headings were styled the same color, size and to uppercase to allow seamless design */
 h1,
 h2,
 h3,
@@ -38,6 +38,8 @@ h4 {
 
 }
 
+/* styling for hero image, an overlay was chosen to give a slight muted look to the image, which would allow the text to pop,
+ but also be legible on the image, this would then set the color scheme for the website. */
 #hero-image {
     height: 300px;
     width: 100%;
@@ -100,7 +102,7 @@ a:hover {
     border-bottom: 2px solid antiquewhite;
 }
 
-/* main page flex */
+/* styling for all flexboxes*/
 
 .flex-container {
     display: flex;
