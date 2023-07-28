@@ -163,6 +163,45 @@ a:hover {
     text-align: center;
 }
 
+/* styling for reviews page */
+
+/* reviews heading */
+
+#reviews-heading h2 {
+    color: #444955;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* flex styling for reviews, a separate container was made to allow for a different design approach */
+
+.flex-review-top {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.flex-review-bottom {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.flex-review {
+    background-color: #444955;
+    height: 200px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+
 
 /* footer */
 
