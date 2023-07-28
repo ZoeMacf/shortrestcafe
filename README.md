@@ -65,6 +65,12 @@ Font family Bellota was used for the website, Sans-Serif was used as a backup
   
 - #### [Google fonts](https://fonts.google.com/knowledge)
   The font family 'Bellota' was sourced and imported through Google Fonts.
+
+- #### [GIMP] (https://www.gimp.org/)
+  This free photo editing software was used to resize images whilst retaining quality.
+
+- #### [Codeanywhere] (https://app.codeanywhere.com/)
+  Codeanywhere was used to code the website.
   
   
 
