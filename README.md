@@ -77,6 +77,17 @@ Font family Bellota was used for the website, Sans-Serif was used as a backup
 
 ### Deployment
 
+This website was created using Codeanywhere and pushed to GitHub under the repository name 'shortrestcafe'.
+
+GitHub pages was then used to deploy the live version of the site, the following instructions for this can be found below:
+
+1. Log in to GitHub account (or sign up if there is no account)
+2. Locate the repository for the project, 'shortrestcafe'
+3. Access the settings page.
+4. In the navigation bar on the lefthand side choose the link for Pages.
+5. When choosing a source, choose the main branch from the drop down menu, and select root from the folder name. 
+6. Finally click Save, the live GitHub page for your site will then been deployed.
+
 ### Local Development
 
 #### How to Fork
