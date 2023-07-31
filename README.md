@@ -32,6 +32,8 @@ Font family Bellota was used for the website, Sans-Serif was used as a backup
 
 ### Imagery
 
+- An image of geometric dice, also known as D20s was chosen to be the hero image for this website to help catch the user's eye, but it also helped to decide on the colour theme for the website itself and a reoccuring theme of using a d20 dice (provided by Font Awesome) to break up parts of the website. 
+
 ### Wireframes
 
 #### Home
