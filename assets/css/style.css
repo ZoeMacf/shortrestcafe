@@ -207,6 +207,22 @@ a:hover {
     padding: 20px;
 }
 
+/* css to create custom user icons for reviews */
+
+.user-container {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    position: relative;
+}
+
+.user-icon img {
+    height: 75%;
+    width: 75%;
+    border-radius: 50%;
+    border: solid 2px antiquewhite;
+}
+
 /* footer */
 
 footer {
