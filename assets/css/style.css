@@ -194,11 +194,29 @@ a:hover {
 }
 
 .flex-review {
+    display: flex;
+    align-items: center;
     background-color: #444955;
     height: 200px;
-    width: 400px;
+    width: 410px;
     border-radius: 30px;
     margin: 20px;
+    color: antiquewhite;
+    padding: 10px;
+}
+
+.review-image {
+    height: 300px;
+    width: 400px;
+    display: flex;
+    border: solid 3px #444955;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.review-image img {
+    height: 100%;
+    width: 100%;
 }
 
 #review-divider {
