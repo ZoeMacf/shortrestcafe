@@ -205,6 +205,10 @@ a:hover {
     padding: 10px;
 }
 
+.review-text {
+    width: 100%;
+}
+
 .review-image {
     height: 300px;
     width: 400px;
