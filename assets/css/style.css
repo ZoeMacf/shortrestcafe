@@ -28,6 +28,10 @@ h4 {
     color: antiquewhite
 }
 
+p {
+    width: 100%;
+}
+
 /* css to set the logo bar as sticky, so that it is accessible throughout the page */
 #logo-container {
     width: 100%;
@@ -110,7 +114,7 @@ a:hover {
     border-bottom: 2px solid #444955;
 }
 
-/* styling for all flexboxes*/
+/* styling for home page flexboxes*/
 
 .flex-container {
     display: flex;
@@ -214,9 +218,9 @@ a:hover {
 }
 
 /* allows the text to fill the parent element*/
-.review-text {
+/* .review-text {
     width: 100%;
-}
+} */
 
 .review-image {
     height: 300px;
