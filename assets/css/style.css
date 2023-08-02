@@ -176,6 +176,31 @@ a:hover {
     text-align: center;
 }
 
+/* flex containers for menus */
+
+.menu-container {
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-item {
+    background-color: #444955;
+    padding: 5px;
+    margin: 50px 20px;
+    width: 420px;
+    height: 400px;
+    margin-top: 10px;
+    line-height: 30px;
+    color: antiquewhite;
+    font-weight: bold;
+    text-align: left;
+    min-width: 0;
+    border-radius: 10px;
+}
+
 /* styling for reviews page */
 
 /* reviews heading */
