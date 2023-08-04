@@ -2,7 +2,7 @@
 
 Short Rest Café website is a hub for people to learn about their local board game café, there is also a review section for the café along with a menu.
 
-
+The live site can be viewed here ![Short Rest Cafe](https://zoemacf.github.io/shortrestcafe/)
 
 ## Contents
 
