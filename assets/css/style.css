@@ -363,7 +363,7 @@ h4 {
 /* media queries */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 425px) {
 
     /* Media queries for home page */
     .flex-container {
