@@ -164,6 +164,10 @@ a:hover {
     padding: 2rem;
 }
 
+.container h3 {
+    color: #444955;
+}
+
 .slider-wrapper {
     position: relative;
     max-width: 48rem;
