@@ -359,3 +359,25 @@ h4 {
 #social i {
     color: antiquewhite;
 }
+
+/* media queries */
+
+
+@media screen and (max-width: 800px) {
+
+    /* Media queries for home page */
+    .flex-container {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+        padding: 0;
+        margin: 0;
+
+    }
+
+    .flex-item {
+        width: 100%;
+        height: 400px;
+        text-align: center;
+    }
+}
