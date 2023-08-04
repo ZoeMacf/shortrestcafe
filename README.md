@@ -1,6 +1,8 @@
 # Short Rest Cafe
 
-Short Rest Café website is a hub for people to learn about their local board game café, they can also leave reviews for the board games that they have played there.
+Short Rest Café website is a hub for people to learn about their local board game café, there is also a review section for the café along with a menu.
+
+
 
 ## Contents
 
@@ -62,7 +64,7 @@ Font family Bellota was used for the website, Sans-Serif was used as a backup
 - #### [Font Awesome](https://fontawesome.com/)
   The icons used throughout this website were all sourced from Font Awesome.
   
-- #### [Balsamic](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA14WdBhD8ARIsANao07g6CkndNmxQPlHP92mM3VQBwb6lbQIg5FPinhmNFxWsAnM7BpA_PukaAldMEALw_wcB)
+- #### [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA14WdBhD8ARIsANao07g6CkndNmxQPlHP92mM3VQBwb6lbQIg5FPinhmNFxWsAnM7BpA_PukaAldMEALw_wcB)
   Balsamiq was used to help create the intial design for the websites layout.
   
 - #### [Google fonts](https://fonts.google.com/knowledge)
