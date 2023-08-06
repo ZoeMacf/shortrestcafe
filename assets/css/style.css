@@ -361,6 +361,16 @@ h4 {
 
 @media only screen and (min-width: 320px) and (max-width: 480px) {
 
+    /* media query for hero-image */
+
+    #hero-image h1 {
+        padding-top: 100px;
+    }
+
+    #hero-image h2 {
+        padding-top: 15px;
+    }
+
     /* media query for index.html */
 
     .flex-container {
