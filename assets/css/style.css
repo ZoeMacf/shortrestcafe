@@ -363,8 +363,15 @@ h4 {
 
     /* media query for hero-image */
 
+    #hero-outer {
+        height: 200px;
+    }
+        #hero-image {
+        height: 200px;
+    }
+
     #hero-image h1 {
-        padding-top: 100px;
+        padding-top: 80px;
     }
 
     #hero-image h2 {
