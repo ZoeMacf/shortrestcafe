@@ -383,4 +383,11 @@ h4 {
         width: 100;
     }
 
+    #social li {
+        float: right;
+        list-style-type: none;
+        margin-right: 15%;
+        margin-top: 50px;
+    }
+
 }
