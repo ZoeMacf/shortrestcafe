@@ -241,9 +241,6 @@ a:hover {
 }
 
 hr {
-    border-bottom: solid 2px antiquewhite;
-    width: 50%;
-    text-align: center;
     margin-left: 100px;
     margin-top: 5px;
     margin-bottom: 5px;
