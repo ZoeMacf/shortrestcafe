@@ -424,8 +424,11 @@ h4 {
         display: flex;
     }
 
-    .review-image {
-        display: none;
+    @media only screen and (max-width: 320px) {
+        .review-image {
+            display: none;
+        }
     }
+
 
 }
