@@ -428,8 +428,8 @@ h4 {
 
     /* media query for reviews page */
 
-    #reviews-heading {
-        font-size: 1rem;
+    #reviews-heading h2  {
+        font-size: 0.9rem;
     }
 
     .flex-review-top {
@@ -449,10 +449,6 @@ h4 {
         #hero-image h1 {
             font-size: 1.2rem;
         }
-        
-        .review-image {
-            display: none;
-        }
 
         .menu-item {
             height: 100%;
@@ -468,6 +464,14 @@ h4 {
 
         #party-builder-info li {
             text-align: center;
+        }
+
+        .review-image {
+            display: none;
+        }
+
+        .flex-review {
+            height: 100%;
         }
     }
 
