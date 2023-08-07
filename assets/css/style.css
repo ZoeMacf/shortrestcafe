@@ -442,8 +442,28 @@ h4 {
     }
 
     @media only screen and (max-width: 320px) {
+        #hero-image h1 {
+            font-size: 1.2rem;
+        }
+        
         .review-image {
             display: none;
+        }
+
+        .menu-item {
+            height: 100%;
+        }
+
+        .menu-item li {
+            text-align: left;
+        }
+
+        .menu-item p {
+            width: 100%;
+        }
+
+        #party-builder-info li {
+            text-align: center;
         }
     }
 
