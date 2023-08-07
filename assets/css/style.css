@@ -357,6 +357,210 @@ h4 {
     color: antiquewhite;
 }
 
+/* media query for screens 1200px and lower */
+
+@media screen and (max-width: 1200px) {
+    #hero-image h1 {
+        padding-top: 60px;
+    }
+    #hero-image h2 {
+        padding-top: 15px;
+    }
+
+    /* media queries for index.html */
+
+    .flex-container {
+        display: flex;
+        flex-flow: nowrap;
+        justify-content: center;
+    }
+
+    .flex-item {
+        width: 100%;
+        height: 300px;
+        text-align: center;
+    }
+
+    #social li {
+        float: right;
+        list-style-type: none;
+        margin-right: 18%;
+        margin-top: 50px;
+    }
+
+    /* media queries for reviews.html */
+
+    .flex-review-top {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .flex-review-bottom {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .flex-review {
+        display: flex;
+    }
+}
+
+/* media query for screens 768px and lower */
+
+@media screen and (max-width: 768px) {
+
+    /* media query for hero image */
+
+    #hero-image h1 {
+        padding-top: 80px;
+    }
+    #hero-image h2 {
+        padding-top: 15px;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-flow: nowrap;
+        justify-content: center;
+    }
+
+    .flex-item {
+        width: 100%;
+        height: 400px;
+        text-align: center;
+    }
+
+    .flex-item p {
+        width: 100;
+    }
+
+    #event-coming-soon {
+        font-size: 0.7rem;
+
+    }
+
+    #social li {
+        float: right;
+        list-style-type: none;
+        margin-right: 18%;
+        margin-top: 50px;
+    }
+
+    /* media query for menu.html */
+     
+    .menu-container {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .menu-item li {
+        width: 100%;
+    }
+
+    /* media query for review.html */
+
+    .flex-review-top {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .flex-review-bottom {
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .flex-review {
+        display: flex;
+    }
+
+}
+
+/* media query for screens 480px and lower */
+
+@media screen and (max-width: 480px) {
+
+    /* media query for hero-image */
+    #hero-outer {
+        height: 200px;
+    }
+        #hero-image {
+        height: 200px;
+    }
+    #hero-image h1 {
+        padding-top: 80px;
+    }
+    #hero-image h2 {
+        padding-top: 15px;
+    }
+
+    /* media query for index.html */
+
+    .flex-container {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+    }
+
+    .flex-item {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+
+    .flex-item p {
+        width: 100;
+    }
+
+    #event-coming-soon {
+        font-size: 0.8rem;
+
+    }
+
+    #social li {
+        float: right;
+        list-style-type: none;
+        margin-right: 15%;
+        margin-top: 50px;
+    }
+
+    #open-hours p {
+        font-size: 0.8rem;
+    }
+
+     /* media query for menu.html */
+     
+     .menu-container {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: space-evenly;
+    }
+
+    .menu-item li {
+        width: 100%;
+    }
+
+    /* media query for reviews page */
+
+    #reviews-heading h2  {
+        font-size: 0.9rem;
+    }
+    .flex-review-top {
+        display: flex;
+    }
+    .flex-review-bottom {
+        display: flex;
+    }
+    .flex-review {
+        display: flex;
+    }
+}
+
 /* media query for screens 320px and lower */
 
 @media screen and (max-width: 320px) {
@@ -446,209 +650,5 @@ h4 {
 
     .review-image {
         display: none;
-    }
-}
-
-/* media query for screens 480px and lower */
-
-@media screen and (max-width: 480px) {
-
-    /* media query for hero-image */
-    #hero-outer {
-        height: 200px;
-    }
-        #hero-image {
-        height: 200px;
-    }
-    #hero-image h1 {
-        padding-top: 80px;
-    }
-    #hero-image h2 {
-        padding-top: 15px;
-    }
-
-    /* media query for index.html */
-
-    .flex-container {
-        display: flex;
-        flex-flow: wrap;
-        justify-content: center;
-    }
-
-    .flex-item {
-        width: 100%;
-        height: 100%;
-        text-align: center;
-    }
-
-    .flex-item p {
-        width: 100;
-    }
-
-    #event-coming-soon {
-        font-size: 0.8rem;
-
-    }
-
-    #social li {
-        float: right;
-        list-style-type: none;
-        margin-right: 15%;
-        margin-top: 50px;
-    }
-
-    #open-hours p {
-        font-size: 0.8rem;
-    }
-
-     /* media query for menu.html */
-     
-     .menu-container {
-        display: flex;
-        flex-flow: wrap;
-        justify-content: space-evenly;
-    }
-
-    .menu-item li {
-        width: 100%;
-    }
-
-    /* media query for reviews page */
-
-    #reviews-heading h2  {
-        font-size: 0.9rem;
-    }
-    .flex-review-top {
-        display: flex;
-    }
-    .flex-review-bottom {
-        display: flex;
-    }
-    .flex-review {
-        display: flex;
-    }
-}
-
-/* media query for screens 768px and lower */
-
-@media screen and (max-width: 768px) {
-
-    /* media query for hero image */
-
-    #hero-image h1 {
-        padding-top: 80px;
-    }
-    #hero-image h2 {
-        padding-top: 15px;
-    }
-
-    .flex-container {
-        display: flex;
-        flex-flow: nowrap;
-        justify-content: center;
-    }
-
-    .flex-item {
-        width: 100%;
-        height: 400px;
-        text-align: center;
-    }
-
-    .flex-item p {
-        width: 100;
-    }
-
-    #event-coming-soon {
-        font-size: 0.7rem;
-
-    }
-
-    #social li {
-        float: right;
-        list-style-type: none;
-        margin-right: 18%;
-        margin-top: 50px;
-    }
-
-    /* media query for menu.html */
-     
-    .menu-container {
-        display: flex;
-        flex-flow: column;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-
-    .menu-item li {
-        width: 100%;
-    }
-
-    /* media query for review.html */
-
-    .flex-review-top {
-        display: flex;
-        flex-flow: column;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-    .flex-review-bottom {
-        display: flex;
-        flex-flow: column;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-    .flex-review {
-        display: flex;
-    }
-
-}
-
-/* media query for screens 1200px and lower */
-
-@media screen and (max-width: 1200px) {
-    #hero-image h1 {
-        padding-top: 60px;
-    }
-    #hero-image h2 {
-        padding-top: 15px;
-    }
-
-    /* media queries for index.html */
-
-    .flex-container {
-        display: flex;
-        flex-flow: nowrap;
-        justify-content: center;
-    }
-
-    .flex-item {
-        width: 100%;
-        height: 300px;
-        text-align: center;
-    }
-
-    #social li {
-        float: right;
-        list-style-type: none;
-        margin-right: 18%;
-        margin-top: 50px;
-    }
-
-    /* media queries for reviews.html */
-
-    .flex-review-top {
-        display: flex;
-        flex-flow: row;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-    .flex-review-bottom {
-        display: flex;
-        flex-flow: row;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-    .flex-review {
-        display: flex;
     }
 }
