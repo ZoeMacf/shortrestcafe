@@ -445,35 +445,34 @@ h4 {
         display: flex;
     }
 
-    @media only screen and (max-width: 320px) {
-        #hero-image h1 {
-            font-size: 1.2rem;
-        }
+}
 
-        .menu-item {
-            height: 100%;
-        }
-
-        .menu-item li {
-            text-align: left;
-        }
-
-        .menu-item p {
-            width: 100%;
-        }
-
-        #party-builder-info li {
-            text-align: center;
-        }
-
-        .review-image {
-            display: none;
-        }
-
-        .flex-review {
-            height: 100%;
-        }
+@media only screen and (max-width: 320px) {
+    #hero-image h1 {
+        font-size: 1.2rem;
     }
 
+    .menu-item {
+        height: 100%;
+    }
 
+    .menu-item li {
+        text-align: left;
+    }
+
+    .menu-item p {
+        width: 100%;
+    }
+
+    #party-builder-info li {
+        text-align: center;
+    }
+
+    .review-image {
+        display: none;
+    }
+
+    .flex-review {
+        height: 260px;
+    }
 }
