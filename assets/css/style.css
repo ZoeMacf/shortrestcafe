@@ -623,6 +623,81 @@ h4 {
     }
 }
 
+/* media query for screens 360px and lower */
+
+@media screen and (max-width: 360px) {
+
+    #hero-image h1 {
+        font-size: 1.2rem;
+        padding-top: 80px
+    }
+
+    #hero-image h2 {
+        font-size: 0.8rem;
+        padding-top: 10px
+
+    }
+
+    #hero-outer {
+        height: 200px;
+    }
+        #hero-image {
+        height: 200px;
+    }
+
+    #open-hours p {
+        font-size: 0.6rem;
+    }
+
+    /* media query for index.html */
+
+    #event-coming-soon {
+        font-size: 0.6rem;
+
+    }
+
+     /* media queries for menu.html */
+
+     .menu-container {
+        display: flex;
+        flex-flow: wrap;
+    }
+
+    .menu-item {
+        height: 100%;
+    }
+    .menu-item li {
+        text-align: left;
+    }
+    .menu-item p {
+        width: 100%;
+    }
+    #party-builder-info li {
+        text-align: center;
+    }
+
+     /* media queries for review.html */
+
+     #reviews-heading {
+        font-size: 0.5rem;
+    }
+
+    .flex-review {
+        display: flex;
+        height: 100%;
+        width: 80%;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 10px;
+    }
+
+    .review-text {
+        width: 100%;
+        text-align: center;
+    }
+
+}
+
 /* media query for screens 320px and lower */
 
 @media screen and (max-width: 320px) {
@@ -644,6 +719,7 @@ h4 {
         #hero-image {
         height: 200px;
     }
+    
 
     /* media query for index.html */
 
