@@ -357,6 +357,68 @@ h4 {
     color: antiquewhite;
 }
 
+/* media query for screens 1920 and lower */
+
+@media screen and (max-width: 1920px) {
+
+    #hero-image h1 {
+        font-size: 6rem;
+        padding-top: 80px
+    }
+
+    #hero-image h2 {
+        font-size: 3rem;
+        padding-top: 10px
+
+    }
+
+    /* media queries for index.html */
+
+    .flex-container {
+        display: flex;
+        flex-flow: nowrap;
+        justify-content: center;
+    }
+
+    .flex-item {
+        width: 700px;
+        height: 300px;
+        text-align: center;
+    }
+
+    #social li {
+        float: right;
+        list-style-type: none;
+        margin-right: 19%;
+        margin-top: 50px;
+    }
+
+    /* media queries for reviews.html */
+
+    .flex-review-top {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .flex-review-bottom {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .flex-review {
+        display: flex;
+    }
+
+    .review-image {
+        height: 200px;
+        width: 300px;
+    }
+
+}
+
+
 /* media query for screens 1200px and lower */
 
 @media screen and (max-width: 1200px) {
