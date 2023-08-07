@@ -357,25 +357,25 @@ h4 {
     color: antiquewhite;
 }
 
-/* media queries */
+/* media query for screens 320px and lower */
 
-@media only screen and (min-width: 320px) and (max-width: 480px) {
+@media screen and (max-width: 320px) {
 
-    /* media query for hero-image */
+    #hero-image h1 {
+        font-size: 1.2rem;
+        padding-top: 80px
+    }
+
+    #hero-image h2 {
+        padding-top: 10px
+
+    }
 
     #hero-outer {
         height: 200px;
     }
         #hero-image {
         height: 200px;
-    }
-
-    #hero-image h1 {
-        padding-top: 80px;
-    }
-
-    #hero-image h2 {
-        padding-top: 15px;
     }
 
     /* media query for index.html */
@@ -386,7 +386,6 @@ h4 {
         justify-content: center;
         padding: 0;
         margin: 0;
-
     }
 
     .flex-item {
@@ -399,6 +398,11 @@ h4 {
         width: 100;
     }
 
+    #event-coming-soon {
+        font-size: 0.5rem;
+
+    }
+
     #social li {
         float: right;
         list-style-type: none;
@@ -406,24 +410,107 @@ h4 {
         margin-top: 50px;
     }
 
-    /* media query for menu.html */
+    #open-hours p {
+        font-size: 0.6rem;
+    }
+
+    /* media queries for menu.html */
 
     .menu-container {
         display: flex;
         flex-flow: wrap;
-        justify-content: space-evenly;
-        padding: 0;
-        margin: 0;
     }
 
     .menu-item {
-        background-color: #444955;
-        padding: 5px;
-        margin: 50px 20px;
-
+        height: 100%;
+    }
+    .menu-item li {
+        text-align: left;
+    }
+    .menu-item p {
+        width: 100%;
+    }
+    #party-builder-info li {
         text-align: center;
-        min-width: 0;
-        border-radius: 10px;
+    }
+
+    /* media queries for review.html */
+
+    #reviews-heading {
+        font-size: 0.5rem;
+    }
+
+    .flex-review {
+        height: 260px;
+    }
+
+    .review-image {
+        display: none;
+    }
+}
+
+/* media query for screens 480px and lower */
+
+@media screen and (max-width: 480px) {
+
+    /* media query for hero-image */
+    #hero-outer {
+        height: 200px;
+    }
+        #hero-image {
+        height: 200px;
+    }
+    #hero-image h1 {
+        padding-top: 80px;
+    }
+    #hero-image h2 {
+        padding-top: 15px;
+    }
+
+    /* media query for index.html */
+
+    .flex-container {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+    }
+
+    .flex-item {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+
+    .flex-item p {
+        width: 100;
+    }
+
+    #event-coming-soon {
+        font-size: 0.8rem;
+
+    }
+
+    #social li {
+        float: right;
+        list-style-type: none;
+        margin-right: 15%;
+        margin-top: 50px;
+    }
+
+    #open-hours p {
+        font-size: 0.8rem;
+    }
+
+     /* media query for menu.html */
+     
+     .menu-container {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: space-evenly;
+    }
+
+    .menu-item li {
+        width: 100%;
     }
 
     /* media query for reviews page */
@@ -431,48 +518,14 @@ h4 {
     #reviews-heading h2  {
         font-size: 0.9rem;
     }
-
     .flex-review-top {
         display: flex;
-
     }
-
     .flex-review-bottom {
         display: flex;
     }
-
     .flex-review {
         display: flex;
     }
 
-}
-
-@media only screen and (max-width: 320px) {
-    #hero-image h1 {
-        font-size: 1.2rem;
-    }
-
-    .menu-item {
-        height: 100%;
-    }
-
-    .menu-item li {
-        text-align: left;
-    }
-
-    .menu-item p {
-        width: 100%;
-    }
-
-    #party-builder-info li {
-        text-align: center;
-    }
-
-    .review-image {
-        display: none;
-    }
-
-    .flex-review {
-        height: 260px;
-    }
 }
