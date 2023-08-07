@@ -633,6 +633,7 @@ h4 {
     }
 
     #hero-image h2 {
+        font-size: 1rem;
         padding-top: 10px
 
     }
@@ -707,7 +708,17 @@ h4 {
     }
 
     .flex-review {
-        height: 260px;
+        display: flex;
+        height: 100%;
+        width: 80%;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 10px;
+    }
+
+    .review-text {
+        width: 100%;
+        text-align: center;
     }
 
     .review-image {
