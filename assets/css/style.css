@@ -623,9 +623,12 @@ h4 {
     }
 }
 
-/* media query for screens 360px and lower */
+/* media query for screens 384px and lower */
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 384px) {
+
+
+    /* media queries for hero-image */
 
     #hero-image h1 {
         font-size: 1.2rem;
@@ -649,16 +652,16 @@ h4 {
         font-size: 0.6rem;
     }
 
-    /* media query for index.html */
+    /* media queries for index.html */
 
     #event-coming-soon {
         font-size: 0.6rem;
 
-    }
+    } 
 
-     /* media queries for menu.html */
+    /* media queries for menu.html */
 
-     .menu-container {
+    .menu-container {
         display: flex;
         flex-flow: wrap;
     }
@@ -676,9 +679,9 @@ h4 {
         text-align: center;
     }
 
-     /* media queries for review.html */
+    /* media queries for reviews.html */
 
-     #reviews-heading {
+    #reviews-heading {
         font-size: 0.5rem;
     }
 
