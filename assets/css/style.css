@@ -495,7 +495,7 @@ h4 {
     }
 
     .flex-item p {
-        width: 100;
+        width: 100%;
     }
 
     #event-coming-soon {
@@ -576,7 +576,7 @@ h4 {
     }
 
     .flex-item p {
-        width: 100;
+        width: 100%;
     }
 
     #event-coming-soon {
@@ -741,7 +741,7 @@ h4 {
     }
 
     .flex-item p {
-        width: 100;
+        width: 100%;
     }
 
     #event-coming-soon {
