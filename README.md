@@ -162,6 +162,20 @@ GitHub pages was then used to deploy the live version of the site, the following
 
 #### How to Fork
 
+In order to fork the repository the following must be done:
+
+1. Log into your GitHub account or create one. 
+2. Locate the repository for this project under, ZoeMacf/shortrestcafe/
+3. Finally, click the fork button in the top right corner.
+
 #### How to Clone
+
+In order to clone the repository for local development you will need to follow the below:
+
+1. Log into your GitHub account. 
+2. Go to the repository for this project at ZoeMacf/shortrestcafe/
+3. Next you will need to click on the green '<> Code' button and then choose your preferred method.
+4. Access the terminal in your code editor, create a new directory that you would like to use for the clone. 
+5. Then type 'git clone' into your code editor's terminal, paste the link from step 3 and hit enter. 
 
 ## Testing
