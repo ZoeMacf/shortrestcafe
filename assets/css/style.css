@@ -147,7 +147,7 @@ a:hover {
 }
 
 #about-us img {
-    max-width: 50%;
+    max-width: 75%;
     height: 100%;
     object-fit: cover;
     border-radius: 10px;
