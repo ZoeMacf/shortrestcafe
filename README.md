@@ -45,11 +45,24 @@ The Short Rest Cafe is a place for board game enthusiasts to meet up, indulge in
 
 ### Typography
 
-Font family Bellota was used for the website, Sans-Serif was used as a backup
+The font family Bellota was chosen for the website as it was a nice simple and minimalistic font but it also suited the theme of the cafe, a sort of whimsical cafe. 
+
+![Font-Family Bellota](./README-images/bellota-font.PNG)
 
 ### Imagery
 
 - An image of geometric dice, also known as D20s was chosen to be the hero image for this website to help catch the user's eye, but it also helped to decide on the colour theme for the website itself and a reoccuring theme of using a d20 dice (provided by Font Awesome) to break up parts of the website. 
+
+![Set of D20 dice](./README-images/dice.jpg)
+
+- A range of images were chosen for this site, I wanted to use images which displayed various board games being played and with groups of people to show a community feeling to the cafe.
+
+### Short Rest Color Scheme
+
+![Colour Scheme](./README-images/colour-scheme.PNG)
+
+The initial colour scheme for this site was to go with various shades of blue, however when the hero image was chosen I wanted to choose colours which would really compliment since it would be used across all three pages. This is when I decided to go with charcoal (#444955) for all of the containers alongside antique white (#FAEBD7) for the text and headings, it was also used for the background to make all the elements pop. 
+
 
 ### Wireframes
 
@@ -57,17 +70,29 @@ Font family Bellota was used for the website, Sans-Serif was used as a backup
 
 ![Home image](./README-images/home.png)
 
+The initial design for the home page was to include an about us section alongside a selection of photos. 
+
+However whilst working on the design I felt it suited the purpose of the site to have an 'About Us' section alongside an 'Upcoming Events' section. Both of these areas create help to show that the cafe is a place for everyone with many community events. 
+
+The final image chosen helped give an introduction to the board game theme of the cafe. 
+
 #### Menu
 
 ![Home image](./README-images/menu.png)
+
+For the menu page I had planned on having a section for food, drink and then a selection of board games. This then changed to just food and drink, however I felt the site lacked a suitable feature here and decided to include a section where customers can interact with the staff in a fun way to help decide on the board game they should play alongside food and drink. 
 
 #### Gallery
 
 ![Home image](./README-images/gallery.png)
 
+During the planning phase of this site I had planned on creating a gallery page, however as progress on the site moved along I felt that it did not fit with my idea of the site and decided to take it out. 
+
 #### Reviews
 
 ![Home image](./README-images/reviews.png)
+
+And finally for the reviews page I planned on having some reviews on board games to help customers decide on what to play. This was then changed to four reviews about how it felt to visit the cafe alongside two images of people playing board games together. 
 
 
 ### Features
