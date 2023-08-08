@@ -80,6 +80,18 @@ This website is made up of three pages, all of these are accesible from the navi
     - The menu is set as a sticky header, this allows ease of access for the user throughout the page. 
 
     ![Navigation Bar](./README-images/navigation-bar.PNG)
+
+  * Hero Image 
+    - Each page contains a hero image with a title 'Short Rest Cafe' along with a tagline 'Start Your Adventure With Us!' 
+    - This hero image helps set the theme and overall design of the website. 
+
+    ![Hero Image](./README-images/hero-image.PNG)
+
+  * Footer 
+   - The bottom of each page contains the site footer, which has links to various social media outlets through icons. 
+   - It also contains the opening hours for the cafe. 
+
+   ![Footer](./README-images/footer.PNG)
 ### Accessibility
 
 ## Technologies Used
