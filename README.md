@@ -2,9 +2,24 @@
 
 Short Rest Café website is a hub for people to learn about their local board game café, there is also a review section for the café along with a menu.
 
-The live site can be viewed here ![Short Rest Cafe](https://zoemacf.github.io/shortrestcafe/)
+The live site can be viewed here [Short Rest Cafe](https://zoemacf.github.io/shortrestcafe/)
+
+![Amiresponsive image of Short Rest Cafe](./README-images/amiresponsive.png)
 
 ## Contents
+
+* [User Experience](#user-experience-ux)
+  * [User Stories](#user-stories)
+
+* [Design](#design)
+  * [Typograhpy](#typography)
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)
+
+* [Technologies Used](#technologies-used)
+
+* [Features](#features)
+
 
 ## User Experience (UX)
 
@@ -56,7 +71,15 @@ Font family Bellota was used for the website, Sans-Serif was used as a backup
 
 
 ### Features
+This website is made up of three pages, all of these are accesible from the navigation menu (home, menu and reviews).
 
+![Navigation Bar](./README-images/navigation-bar.PNG)
+
+#### Main content on each page:
+
+  * Navigation Bar
+    - The navigation bar contains links to the home, menu and reviews page. 
+    - The menu is set as a sticky header, this allows ease of access for the user throughout the page. 
 ### Accessibility
 
 ## Technologies Used
