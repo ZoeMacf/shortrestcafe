@@ -179,3 +179,19 @@ In order to clone the repository for local development you will need to follow t
 5. Then type 'git clone' into your code editor's terminal, paste the link from step 3 and hit enter. 
 
 ## Testing
+
+### W3C Validator
+
+[W3C](https://validator.w3.org/nu/) was used in order to test the HTML across all three pages for the website. 
+
+![HTML validation](./README-images/html-test.PNG)
+
+The HTML validation process used on this website passed. 
+
+### Jigsaw CSS Validator
+
+For the CSS used across the website, [Jigsaw](https://jigsaw.w3.org/css-validator/) was used as a validation tool. 
+
+![CSS Validation](./README-images/css-validator.PNG)
+
+The CSS validation process used on this website passed. 
