@@ -31,15 +31,19 @@ The Short Rest Cafe is a place for board game enthusiasts to meet up, indulge in
 
 #### First Time Visitor Goals
 
+- I want to be able to easily understand the purpose of this website and learn about the cafe. 
 - I want to learn more about board games and other table top games.
-- I want to easily be able to navigate the website and access its features such as the menu
 - I want to easily locate the cafe's opening times
 
 #### Returning Visitor Goals
 
+- I want to easily be able to navigate the website and access its features such as the menu
 - I want to know when there are any upcoming events.
+- I want to be able to submit a review of my experience at the cafe. 
 
 #### Frequent Visitor Goals
+
+- I want to be able to use the website across multiple devices without too much difference in the site content. 
 
 ## Design
 
@@ -94,6 +98,34 @@ During the planning phase of this site I had planned on creating a gallery page,
 
 And finally for the reviews page I planned on having some reviews on board games to help customers decide on what to play. This was then changed to four reviews about how it felt to visit the cafe alongside two images of people playing board games together. 
 
+## Final Design
+
+### Home 
+
+#### Desktop Version
+![Home](./README-images/short-rest-cafe-home.png)
+
+#### Mobile Version
+
+![Home-mobile](./README-images/mobile-test-home.jpg)
+
+### Menu 
+
+#### Desktop Version
+![Menu](./README-images/short-rest-cafe-menu.png)
+
+#### Mobile Version
+
+![Menu-mobile](./README-images/mobile-test-menu.jpg)
+
+### Reviews 
+
+#### Desktop Version
+![Reviews](./README-images/short-rest-cafe-reviews.png)
+
+#### Mobile Version
+
+![Reviews-mobile](./README-images/mobile-test-reviews.jpg)
 
 ### Features
 This website is made up of three pages, all of these are accesible from the navigation menu (home, menu and reviews).
@@ -117,6 +149,7 @@ This website is made up of three pages, all of these are accesible from the navi
    - It also contains the opening hours for the cafe. 
 
    ![Footer](./README-images/footer.PNG)
+   
 ### Accessibility
 
 ## Technologies Used
