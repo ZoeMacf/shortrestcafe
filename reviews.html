@@ -135,6 +135,31 @@
 
         </div>
     </div>
+<!-- Form for submitting reviews to the cafe -->
+    <div class="form-container">
+        <h4>Want to share your experience? Submit your review here!</h4>
+        <form id="cafe-review"action="https://formdump.codeinstitute.net" method="post" name="review-form">
+            <div class="form-info">
+
+            <label for="fname" class="review-label">First Name: </label>
+            <input type="text" id="fname" name="fname" placeholder="John" required>
+
+            <label for="lname" class="review-label">Surname: </label>
+            <input type="text" id="lname" name="lname" placeholder="Doe" required>
+
+            <label for="email" class="review-label">Email: </label>
+            <input type="email" id="email" name="email" placeholder="JohnDoe@youremail.com" required>
+
+            <label for="review" class="review-label">Your Review</label>
+            <textarea name="review" id="review" cols="10" rows="10" form="cafe-review" placeholder="Your review here..." required></textarea>
+        </div>
+
+        <input type="submit" value="Submit" class="submit-button">
+
+        </form>
+
+
+    </div>
 
 
 
