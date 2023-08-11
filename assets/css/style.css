@@ -321,7 +321,7 @@ hr {
     height: 500px;
     padding:5px;
     margin-bottom: 10px;
-    margin-left: 5%;
+    margin-left: 10%;
     background-color:#444955 ;
     color: #FAEBD7;
     border-radius: 10px;
@@ -373,6 +373,11 @@ footer {
     background-color: #444955;
 }
 
+/* Separate styling for footer on form submission page */
+#form-submission {
+    background-color: #FAEBD7;
+}
+
 #open-hours,
 h3,
 h4 {
@@ -392,6 +397,48 @@ h4 {
 #social i {
     color: #FAEBD7;
 }
+
+/* styling for form submission */
+
+#thanks-title {
+color: #444955;
+text-align: center;
+padding: 5px;
+margin: 10%;
+}
+
+#thanks-message {
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    margin-left: 45%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #444955;
+    color: #FAEBD7;
+    border-radius: 5px;
+
+}
+
+a.button {
+    color: #FAEBD7;
+}
+
+.button:hover {
+    text-decoration: underline;
+}
+
+a.button :hover {
+    text-decoration: underline;
+}
+
 
 /* media query for screens 1920 and lower */
 
