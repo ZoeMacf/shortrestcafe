@@ -499,6 +499,25 @@ a.button :hover {
         width: 300px;
     }
 
+    /* media queries for form submission page */
+
+    #thanks-title {
+        font-size: 4rem;
+        text-align: center;
+        }
+        
+        #thanks-message {
+            text-align: center;
+        }
+        
+        .button {
+        margin: auto;
+        margin-top: 10px;
+        width: 50%;
+        padding: 10px;
+
+        }
+
 }
 
 
@@ -554,6 +573,25 @@ a.button :hover {
     .flex-review {
         display: flex;
     }
+
+    /* media queries for form submission page */
+
+    #thanks-title {
+        font-size: 4rem;
+        text-align: center;
+        }
+        
+        #thanks-message {
+            text-align: center;
+        }
+        
+        .button {
+        margin: auto;
+        margin-top: 10px;
+        width: 50%;
+        padding: 10px;
+
+        }
 }
 
 /* media query for screens 768px and lower */
@@ -638,6 +676,25 @@ a.button :hover {
         margin-left: 13%;
         
     }
+
+    /* media queries for form submission page */
+
+    #thanks-title {
+        font-size: 3rem;
+        text-align: center;
+        }
+        
+        #thanks-message {
+            text-align: center;
+        }
+        
+        .button {
+        margin: auto;
+        margin-top: 10px;
+        width: 50%;
+        padding: 10px;
+
+        }
 
 }
 
@@ -730,6 +787,25 @@ a.button :hover {
         margin: 10%;
         
     }
+
+    /* media queries for form submission page */
+
+    #thanks-title {
+        font-size: 2rem;
+        text-align: center;
+        }
+        
+        #thanks-message {
+            text-align: center;
+        }
+        
+        .button {
+        margin: auto;
+        margin-top: 10px;
+        width: 50%;
+        padding: 10px;
+
+        }
 }
 
 /* media query for screens 384px and lower */
@@ -814,6 +890,25 @@ a.button :hover {
         margin: 10%;
         
     }
+
+    /* media queries for form submission page */
+
+    #thanks-title {
+        font-size: 1rem;
+        text-align: center;
+        }
+        
+        #thanks-message {
+            text-align: center;
+        }
+        
+        .button {
+        margin: auto;
+        margin-top: 10px;
+        width: 50%;
+        padding: 10px;
+
+        }
 
 }
 
@@ -926,4 +1021,23 @@ a.button :hover {
         margin: 10%;
         
     }
+
+      /* media queries for form submission page */
+
+      #thanks-title {
+        font-size: 0.9rem;
+        text-align: center;
+        }
+        
+        #thanks-message {
+            text-align: center;
+        }
+        
+        .button {
+        margin: auto;
+        margin-top: 10px;
+        width: 50%;
+        padding: 10px;
+
+        }
 }
