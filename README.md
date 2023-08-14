@@ -127,6 +127,14 @@ And finally for the reviews page I planned on having some reviews on board games
 
 ![Reviews-mobile](./README-images/mobile-test-reviews.jpg)
 
+### Form Submission Page
+
+#### Desktop Version
+
+![Form-submission](./README-images/short-rest-cafe-form-submission.png)
+
+A submission page was created to be displayed to the user upon completion of their review, however this custom .html page did not work on the live site as PHP was needed, this may be implemented in the future to tie in with the overall look of the site. 
+
 ### Features
 This website is made up of three pages, all of these are accesible from the navigation menu (home, menu and reviews).
 
