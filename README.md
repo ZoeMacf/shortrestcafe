@@ -15,10 +15,30 @@ The live site can be viewed here [Short Rest Cafe](https://zoemacf.github.io/sho
   * [Typograhpy](#typography)
   * [Imagery](#imagery)
   * [Wireframes](#wireframes)
+  * [Final Design](#design)
+
+* [Features](#features)
+  * [Future Implementations](#future-implementations)
+
+* [Acessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
 
-* [Features](#features)
+* [Deployment & Local Deployment](#deployment--local-development)
+
+* [Testing](#testing)
+  * [W3C Validator](#w3c-validator)
+  * [Jigsaw CSS Validator](#jigsaw-css-validator)
+  * [Lighthouse Testing](#lighthouse)
+  * [Further Testing](#further-testing)
+  * [Bugs Found](#bugs-found)
+
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Site Content](#site-content)
+  * [Site Media](#site-media)
+  * [Acknowledgements](#acknowledgements)
+
 
 
 ## User Experience (UX)
@@ -327,3 +347,14 @@ When changing pages none of the links would change to active across Menu and Rev
 This bug was caused by the a tag for the home page being set as active across all three pages. This was amended by removing and amending the affected a tags. 
 
 ![bug-fix-3](./README-images/bugfix3.PNG)
+
+## Credits
+
+### Code Used
+
+### Site Content
+
+### Site Media 
+
+### Acknowledgements
+
