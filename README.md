@@ -293,3 +293,37 @@ The following browsers were used to test the functionality of the site.
 | Review submit button | Should not allow review to be submitted if all or none of the fields are filled in  | Click submit button  | A pop-up saying 'Please fill out this field' appears to the user  | Pass  |
 |  Revews form 'email' field | Should not accept any input unless it is an email address  | Enter a value without '@'  |  A pop-up appears saying 'Please include an '@' in the email address | Pass  |
 | Reviews Submission Form  | Should submit values entered and display form dump page  | Values are entered for all fields and submit button clicked | Form Dump page is displayed  | Pass  |
+
+### Bugs Found
+
+The following were found during the creation of the site and during use. 
+
+#### Bug 1
+
+During the testing of the navbar after it had been changed to sticky header the home page link was no longer visible. 
+
+![Hidden Home Link](./README-images/hidden%20index%20page.PNG)
+
+This bug was caused by the text being missing from the 'a' tag, this issued was fixed by adding the text back in. 
+
+![Bug Fix 1](./README-images/bugfix1.PNG)
+
+#### Bug 2
+
+When moving to the menu page from the navigation bar the home link remained active. 
+
+![Two active links](./README-images/two%20underline.PNG)
+
+This bug was caused by there being a duplicate active a tag on the menu page. To amend this the line was removed from the code. 
+
+![Bug Fix 2](./README-images/bugfix2.PNG)
+
+#### Bug 3
+
+When changing pages none of the links would change to active across Menu and Reviews Page
+
+![Active-underline](./README-images/underline-change.PNG)
+
+This bug was caused by the a tag for the home page being set as active across all three pages. This was amended by removing and amending the affected a tags. 
+
+![bug-fix-3](./README-images/bugfix3.PNG)
