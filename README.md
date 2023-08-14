@@ -236,3 +236,51 @@ For the CSS used across the website, [Jigsaw](https://jigsaw.w3.org/css-validato
 ![CSS Validation](./README-images/css-validator.PNG)
 
 The CSS validation process used on this website passed. 
+
+### Lighthouse 
+
+Chrome's lighthouse developer tool was used to check the performance of each page across the Short Rest Cafe site. All of the parameters checked by lighthouse gave high results however the initial loading of each page was slowed down by the hero-image. The final results are as follws: 
+
+#### Index Page
+
+![Index Page](./README-images/./lighthouse-home.PNG)
+
+#### Menu page
+
+![Menu Page](./README-images/lighthouse-menu.PNG)
+
+#### Reviews page
+
+![Reviews page](./README-images/lighthouse-reviews.PNG)
+
+### Further Testing
+
+Full testing of the functionality of the site was done on the following devices:
+
+- Laptop Used : HP EliteBook 8570w
+- Mobile : Samsung S21 Plus
+
+The following browsers were used to test the functionality of the site. 
+
+* Google Chrome
+* Firefox
+* Safari (Emulated through Browserstacks)
+
+| Feature Tested  | Outcome  | Test Performed  | Result  | Pass/Fail  |
+|---|---|---|---|---|
+| `Navigation`  |   |   |   |   |
+| Home Page Link  |  When the link is clicked it should direct the user to the 'Home' page | Click on 'Home' text on navbar  | Redirects to 'Home' Page  | Pass  |
+|  Menu Page Link | When the link is clicked it should direct the user to the 'Menu' page   | Click on 'Menu' text on navbar  |  Redirects to 'Menu' Page | Pass |
+| Reviews Page Link  | When the link is clicked it should direct the user to the 'Reviews' page  | Click on 'Reviews' text on navbar  | Redirects to 'Reviews' Page  | Pass  |
+|  `Footer` |   |   |   |   |
+|  Instagram Link | When the link is clicked it open a link to Instagram in a new tab  |  Click on 'Instagram' icon | A new tab opens and directs to Instagram  | Pass |
+| YouTube Link  | When the link is clicked it open a link to YouTube in a new tab  | Click on 'YouTube' icon  |  A new tab opens and directs to YouTube | Pass  |
+|  Twitter Link | When the link is clicked it open a link to Twitter in a new tab  | Click on 'Twitter' icon  | A new tab opens and directs to Twitter  | Pass  |
+|  Facebook Link | When the link is clicked it open a link to Facebook in a new tab  | Click on 'Facebook' icon  | A new tab opens and directs to Facebook  | Pass  |
+| `Menu Page`   |   |   |   |   |
+|  Gallery Wrapper | Should change image when clicking on small white circles  | Click on white circle  |  Image changes | Pass  |
+| Gallery Wrapper  |  Should slide through images when using touchpad on laptop | Slide mouse along image using touchpad  |  Images change | Pass  |
+| `Reviews Page`  |   |   |   |   |
+| Review submit button | Should not allow review to be submitted if all or none of the fields are filled in  | Click submit button  | A pop-up saying 'Please fill out this field' appears to the user  | Pass  |
+|  Revews form 'email' field | Should not accept any input unless it is an email address  | Enter a value without '@'  |  A pop-up appears saying 'Please include an '@' in the email address | Pass  |
+| Reviews Submission Form  | Should submit values entered and display form dump page  | Values are entered for all fields and submit button clicked | Form Dump page is displayed  | Pass  |
