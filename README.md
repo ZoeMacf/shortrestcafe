@@ -157,8 +157,15 @@ This website is made up of three pages, all of these are accesible from the navi
    - It also contains the opening hours for the cafe. 
 
    ![Footer](./README-images/footer.PNG)
+
+### Future Implementations
+
+In future I would like to implement the following: 
+
+- A custom reviews submission page to fit with the theme of the site. 
+- An option to submit video reviews of board games to create a curated list of customer favourites. 
    
-### Accessibility
+## Accessibility
 
 ## Technologies Used
 
@@ -171,12 +178,14 @@ This website is made up of three pages, all of these are accesible from the navi
 - #### [Google fonts](https://fonts.google.com/knowledge)
   The font family 'Bellota' was sourced and imported through Google Fonts.
 
-- #### [GIMP] (https://www.gimp.org/)
+- #### [GIMP](https://www.gimp.org/)
   This free photo editing software was used to resize images whilst retaining quality.
 
-- #### [Codeanywhere] (https://app.codeanywhere.com/)
+- #### [Codeanywhere](https://app.codeanywhere.com/)
   Codeanywhere was used to code the website.
-  
+
+- #### [BrowserStack](https://www.browserstack.com/)
+  BrowserStack was used to emulate Safari browser to test the site as I do not have access to Mac device. 
   
 
 ### Languages Used
