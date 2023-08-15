@@ -12,7 +12,7 @@ The live site can be viewed here [Short Rest Cafe](https://zoemacf.github.io/sho
   * [User Stories](#user-stories)
 
 * [Design](#design)
-  * [Typograhpy](#typography)
+  * [Typography](#typography)
   * [Imagery](#imagery)
   * [Wireframes](#wireframes)
   * [Final Design](#design)
@@ -20,7 +20,7 @@ The live site can be viewed here [Short Rest Cafe](https://zoemacf.github.io/sho
 * [Features](#features)
   * [Future Implementations](#future-implementations)
 
-* [Acessibility](#accessibility)
+* [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
 
@@ -75,7 +75,7 @@ The font family Bellota was chosen for the website as it was a nice simple and m
 
 ### Imagery
 
-- An image of geometric dice, also known as D20s was chosen to be the hero image for this website to help catch the user's eye, but it also helped to decide on the colour theme for the website itself and a reoccuring theme of using a d20 dice (provided by Font Awesome) to break up parts of the website. 
+- An image of geometric dice, also known as D20s was chosen to be the hero image for this website to help catch the user's eye, but it also helped to decide on the colour theme for the website itself and a reoccurring theme of using a d20 dice (provided by Font Awesome) to break up parts of the website. 
 
 ![Set of D20 dice](./README-images/dice.jpg)
 
@@ -156,7 +156,7 @@ And finally for the reviews page I planned on having some reviews on board games
 A submission page was created to be displayed to the user upon completion of their review, however this custom .html page did not work on the live site as PHP was needed, this may be implemented in the future to tie in with the overall look of the site. 
 
 ### Features
-This website is made up of three pages, all of these are accesible from the navigation menu (home, menu and reviews).
+This website is made up of three pages, all of these are accessible from the navigation menu (home, menu and reviews).
 
 #### Main content on each page:
 
@@ -221,7 +221,7 @@ WAVE (Web accessibility evaluation tool) was used to ensure that the site was ac
   The icons used throughout this website were all sourced from Font Awesome.
   
 - #### [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA14WdBhD8ARIsANao07g6CkndNmxQPlHP92mM3VQBwb6lbQIg5FPinhmNFxWsAnM7BpA_PukaAldMEALw_wcB)
-  Balsamiq was used to help create the intial design for the websites layout.
+  Balsamiq was used to help create the initial design for the websites layout.
   
 - #### [Google fonts](https://fonts.google.com/knowledge)
   The font family 'Bellota' was sourced and imported through Google Fonts.
@@ -252,7 +252,7 @@ GitHub pages was then used to deploy the live version of the site, the following
 1. Log in to GitHub account (or sign up if there is no account)
 2. Locate the repository for the project, 'shortrestcafe'
 3. Access the settings page.
-4. In the navigation bar on the lefthand side choose the link for Pages.
+4. In the navigation bar on the left-hand side choose the link for Pages.
 5. When choosing a source, choose the main branch from the drop down menu, and select root from the folder name. 
 6. Finally click Save, the live GitHub page for your site will then been deployed.
 
@@ -323,7 +323,7 @@ The following browsers were used to test the functionality of the site.
 * Firefox
 * Safari (Emulated through Browserstacks)
 
-There are no issues using the site on Google Chrome or Firefox, however on Safari the sticky header is pushed lower leaving a gap above when scroling through the page. I would like to look into coding for Safari browers in future so that this can be factored into the site and future projects. 
+There are no issues using the site on Google Chrome or Firefox, however on Safari the sticky header is pushed lower leaving a gap above when scrolling through the page. I would like to look into coding for Safari browsers in future so that this can be factored into the site and future projects. 
 
 | Feature Tested  | Outcome  | Test Performed  | Result  | Pass/Fail  |
 |---|---|---|---|---|
@@ -341,7 +341,7 @@ There are no issues using the site on Google Chrome or Firefox, however on Safar
 | Gallery Wrapper  |  Should slide through images when using touchpad on laptop | Slide mouse along image using touchpad  |  Images change | Pass  |
 | `Reviews Page`  |   |   |   |   |
 | Review submit button | Should not allow review to be submitted if all or none of the fields are filled in  | Click submit button  | A pop-up saying 'Please fill out this field' appears to the user  | Pass  |
-|  Revews form 'email' field | Should not accept any input unless it is an email address  | Enter a value without '@'  |  A pop-up appears saying 'Please include an '@' in the email address | Pass  |
+|  Reviews form 'email' field | Should not accept any input unless it is an email address  | Enter a value without '@'  |  A pop-up appears saying 'Please include an '@' in the email address | Pass  |
 | Reviews Submission Form  | Should submit values entered and display form dump page  | Values are entered for all fields and submit button clicked | Form Dump page is displayed  | Pass  |
 
 ### Bugs Found
@@ -404,9 +404,9 @@ The images used throughout this site were from [Unsplash](https://unsplash.com/)
 
 * Sharing plate of nachos - [Pexels](https://www.pexels.com/)
 * Plate of cupcakes - [Pexels](https://www.pexels.com/)
-* Toasted sandwhich - [Pexels](https://www.pexels.com/)
+* Toasted sandwich - [Pexels](https://www.pexels.com/)
 * Three cups of coffee - [Pexels](https://www.pexels.com/)
-* Slice of cheescake - [Pexels](https://www.pexels.com/)
+* Slice of cheesecake - [Pexels](https://www.pexels.com/)
 
 #### Reviews Page
 
