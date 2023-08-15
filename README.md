@@ -193,6 +193,28 @@ In order to ensure that my site was accessible to all users the following was do
  * All images declared in HTML were given alt-tags to allow screen readers to describe the images should the user need them too. 
  * Complimentary colours were used throughout the design of the site to ensure readability and for the site to not be too contrasting. 
 
+WAVE (Web accessibility evaluation tool) was used to ensure that the site was accessible to all users and followed semantic standards. 
+
+#### Home 
+
+![wave-home](./README-images/wave-report%20home.png)
+
+[Test for Home Page](https://wave.webaim.org/report#/https://zoemacf.github.io/shortrestcafe/index.html)
+
+#### Menu
+
+![wave-menu](./README-images/wave-report-menu.png)
+
+[Test for Menu Page](https://wave.webaim.org/report#/https://zoemacf.github.io/shortrestcafe/menu.html)
+
+#### Reviews
+
+![wave-menu](./README-images/wave-report-reviews.png)
+
+[Test for Reviews Page](https://wave.webaim.org/report#/https://zoemacf.github.io/shortrestcafe/reviews.html)
+
+
+
 ## Technologies Used
 
 - #### [Font Awesome](https://fontawesome.com/)
