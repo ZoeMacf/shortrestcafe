@@ -232,6 +232,9 @@ WAVE (Web accessibility evaluation tool) was used to ensure that the site was ac
 - #### [Codeanywhere](https://app.codeanywhere.com/)
   Codeanywhere was used to code the website.
 
+- #### [Visual Studio Code](https://code.visualstudio.com/)
+  Visual Studio Code was used for the remainder of the project due to server issues on codeanywhere.
+
 - #### [BrowserStack](https://www.browserstack.com/)
   BrowserStack was used to emulate Safari browser to test the site as I do not have access to Mac device. 
   
