@@ -187,6 +187,12 @@ In future I would like to implement the following:
    
 ## Accessibility
 
+In order to ensure that my site was accessible to all users the following was done:
+
+ * Aria-labels were used for links on the page to allow screen readers to advise on their purpose. 
+ * All images declared in HTML were given alt-tags to allow screen readers to describe the images should the user need them too. 
+ * Complimentary colours were used throughout the design of the site to ensure readability and for the site to not be too contrasting. 
+
 ## Technologies Used
 
 - #### [Font Awesome](https://fontawesome.com/)
