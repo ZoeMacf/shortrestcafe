@@ -358,9 +358,33 @@ This bug was caused by the a tag for the home page being set as active across al
 
 ### Code Used
 
+The slider used on the gallery page was created using code by [Skillsthrive on YouTube](https://www.youtube.com/watch?v=McPdzhLRzCg)
+
 ### Site Content
 
+All of the content and information on the site was written by myself, I tried to keep the board game theme across some aspects such as a the party builder being inspired Dungeons & Dragons and also Lord of the Rings.
+
 ### Site Media 
+
+The images used throughout this site were from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/).
+
+#### Home
+
+* Hero Image - [Pexels](https://www.pexels.com/)
+
+* Risk Board game - [Unsplash](https://unsplash.com/)
+
+#### Menu
+
+* Sharing plate of nachos - [Pexels](https://www.pexels.com/)
+* Plate of cupcakes - [Pexels](https://www.pexels.com/)
+* Toasted sandwhich - [Pexels](https://www.pexels.com/)
+* Three cups of coffee - [Pexels](https://www.pexels.com/)
+* Slice of cheescake - [Pexels](https://www.pexels.com/)
+
+#### Reviews Page
+
+User review images - [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/) were used to gather profile images for reviews. 
 
 ### Acknowledgements
 
