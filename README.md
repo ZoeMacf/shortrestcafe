@@ -356,8 +356,6 @@ During the testing of the navbar after it had been changed to sticky header the 
 
 This bug was caused by the text being missing from the 'a' tag, this issued was fixed by adding the text back in. 
 
-![Bug Fix 1](./README-images/bugfix1.PNG)
-
 #### Bug 2
 
 When moving to the menu page from the navigation bar the home link remained active. 
@@ -365,8 +363,6 @@ When moving to the menu page from the navigation bar the home link remained acti
 ![Two active links](./README-images/two%20underline.PNG)
 
 This bug was caused by there being a duplicate active a tag on the menu page. To amend this the line was removed from the code. 
-
-![Bug Fix 2](./README-images/bugfix2.PNG)
 
 #### Bug 3
 
@@ -376,7 +372,13 @@ When changing pages none of the links would change to active across Menu and Rev
 
 This bug was caused by the a tag for the home page being set as active across all three pages. This was amended by removing and amending the affected a tags. 
 
-![bug-fix-3](./README-images/bugfix3.PNG)
+#### Bug 4
+
+When on the reviews page the size of the navbar increased and was no longer fixed to the top of the page. 
+
+![Navbar](./README-images/navbug1.PNG)
+
+This bug was caused when I added a link to the logo and accidentally removed a div on the reviews page. 
 
 ## Credits
 
