@@ -323,6 +323,8 @@ The following browsers were used to test the functionality of the site.
 * Firefox
 * Safari (Emulated through Browserstacks)
 
+There are no issues using the site on Google Chrome or Firefox, however on Safari the sticky header is pushed lower leaving a gap above when scroling through the page. I would like to look into coding for Safari browers in future so that this can be factored into the site and future projects. 
+
 | Feature Tested  | Outcome  | Test Performed  | Result  | Pass/Fail  |
 |---|---|---|---|---|
 | `Navigation`  |   |   |   |   |
