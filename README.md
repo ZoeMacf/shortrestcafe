@@ -410,3 +410,7 @@ User review images - [Pexels](https://www.pexels.com/) and [Unsplash](https://un
 
 ### Acknowledgements
 
+ - I would like to thank my mentor Luke for all of his support and feedback throughout this project. 
+ - I would like to thank both Joseph O'Connell and John Walshe for their feedback in the peer-code-review channel on slack. 
+ - Thank you to the Code Institute tutor Holly for her amazing help when I was struggling with CSS styling. 
+ - Finally I would like to thank Code Institute for their classes and my facilitator Laura for her schedule and support which has helped me stay on track and ensure my project is everything it could be. 
