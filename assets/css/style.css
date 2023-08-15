@@ -48,6 +48,11 @@ p {
     top: 0;
 }
 
+a.logo-link:hover {
+    color: #444955;
+    background-color: #FAEBD7;
+}
+
 /* hero image */
 
 #hero-outer {
