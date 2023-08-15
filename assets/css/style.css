@@ -788,6 +788,11 @@ a.button :hover {
         
     }
 
+    .form-container h3 {
+        font-size: 0.6rem;
+    }
+
+
     /* media queries for form submission page */
 
     #thanks-title {
@@ -890,6 +895,11 @@ a.button :hover {
         margin: 10%;
         
     }
+
+    .form-container h3 {
+        font-size: 0.6rem;
+    }
+
 
     /* media queries for form submission page */
 
@@ -1020,6 +1030,10 @@ a.button :hover {
         height: 520px;
         margin: 10%;
         
+    }
+
+    .form-container h3 {
+        font-size: 0.6rem;
     }
 
       /* media queries for form submission page */
